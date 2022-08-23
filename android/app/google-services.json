@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "32817719524",
+    "project_id": "covisafe-13806",
+    "storage_bucket": "covisafe-13806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32817719524:android:8584c3d164867b3923e4f1",
+        "android_client_info": {
+          "package_name": "com.example.covisafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32817719524-fc3abvouqsa85bg3gs1ngbnvnvvphr5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiE1HZUX1G_7iUz9ym4AckYUK7GOkVOxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32817719524-fc3abvouqsa85bg3gs1ngbnvnvvphr5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
